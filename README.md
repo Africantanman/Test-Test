@@ -1,2 +1,3 @@
 # Test Test
- testing
+ Landing page example used to complete exercise in ZTM Complete Web Developer Course.
+ 
