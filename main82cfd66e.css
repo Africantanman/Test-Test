@@ -4390,7 +4390,7 @@ button.close {
     list-style: none;
     text-align: center;
 }
-.carousel-indicators li {
+/*.carousel-indicators li {
     display: inline-block;
     width: 10px;
     height: 10px;
@@ -4401,7 +4401,7 @@ button.close {
     cursor: pointer;
     background-color: #000\9;
     background-color: transparent;
-}
+}*/
 .carousel-indicators .active {
     margin: 0;
     width: 12px;
